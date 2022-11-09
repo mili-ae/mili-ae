@@ -1,4 +1,7 @@
-![](https://imgur.com/eir9UrM)
+<p align="center">
+  <img src="https://i.imgur.com/eir9UrM.gif" />
+</p>
+
 <!--
 **mili-ae/mili-ae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
