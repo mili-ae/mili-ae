@@ -5,7 +5,10 @@
 </p>
 
 i need help
-
+<p align="center">
+  <img src="https://api.githubtrends.io/user/svg/mili-ae/langs?theme=dark&time_range=one_year&loc_metric=changed" />
+  <img src="https://api.githubtrends.io/user/svg/mili-ae/repos?time_range=one_year&loc_metric=changed&theme=dark"
+</p>
 <!--
 **mili-ae/mili-ae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
